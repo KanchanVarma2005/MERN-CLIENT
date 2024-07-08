@@ -12,6 +12,7 @@ root.render(
  <Routes>
  <Route path="/about" element={<h1>About</h1>}/>
  <Route path="/register" element={<Register/>}/>
+ <div>Hello</div>
  </Routes>
  </Router>
 
