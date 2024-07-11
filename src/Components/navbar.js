@@ -7,9 +7,7 @@ export default function Navbar(){
 <nav class="bg-blue-600 border-gray-200 dark:bg-gray-900">
  <div class="max-w-screen-xl flex flex-wrap items-center justifybetween mx-auto p-4">
  <a href="" class="flex items-center space-x-3 rtl:space-xreverse">
- <img src="https://png.pngtree.com/png-vector/20230304/
-ourmid/pngtree-colorful-blog-speech-bubble-vector-pngimage_6633021.png"
- class="h-10 w-14" alt="Blogging SIte" />
+ <img src="https://png.pngtree.com/png-vector/20230304/ourmid/pngtree-colorful-blog-speech-bubble-vector-pngimage_6633021.png"class="h-10 w-14" alt="Blogging SIte" />
  <span class="self-center text-2xl font-semibold
 whitespace-nowrap text-white">Bloggy</span>
  </a>
